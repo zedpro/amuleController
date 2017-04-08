@@ -1,0 +1,14 @@
+#hello {
+	color: red;
+}
+
+
+/* Overwrite simple-grid styles */
+
+.container {
+	margin-left: 1% !important;
+	margin-right: 0% !important;
+	width: 100% !important;
+}
+
+
